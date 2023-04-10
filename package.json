@@ -81,7 +81,7 @@
   "dependencies": {
     "@koa/cors": "3.4.3",
     "@koa/router": "10.1.1",
-    "@strapi/admin": "/home/arshad/Workspace/Centresource/strapi-4.9.0/admin",
+    "@strapi/admin": "https://github.com/arshad1/strapi-admin.git",
     "@strapi/data-transfer": "4.9.0",
     "@strapi/database": "4.9.0",
     "@strapi/generate-new": "4.9.0",
